@@ -9,15 +9,6 @@ Interfaz web para una jukebox montada sobre una Raspberry Pi: en una fiesta, cua
 
 ---
 
-## Captura
-
-<!-- TODO: sustituir por un GIF de ~10 s: buscar una canción → encolarla → reordenar la cola arrastrando → play/pause -->
-<!-- Grábalo con ScreenToGif y guárdalo en docs/demo.gif -->
-
-![Demo de DeiMusic](docs/demo.gif)
-
----
-
 ## Stack
 
 - **React 19** + **Vite 7** (JavaScript)
